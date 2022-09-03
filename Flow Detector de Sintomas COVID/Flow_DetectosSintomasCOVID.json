@@ -1,0 +1,21 @@
+[
+    {
+        "id": "65d75e2179303459",
+        "type": "function",
+        "z": "4a4bf52d7ed40995",
+        "name": "Diagnostico Temperatura",
+        "func": "if(global.get(\"temp\") >= 37.0){\n    msg.payload = \"Temperatura Alta\";\n    return msg;\n}\nif(global.get(\"temp\") >= 35.0 && global.get(\"temp\") < 37.0){\n    msg.payload = \"Temperatura Normal\";\n    return msg;\n}\nif(global.get(\"temp\") > 30.0 && global.get(\"temp\") < 35.0){\n    msg.payload = \"Tienes Hipotermia, acude a consulta\";\n    return msg;\n}\nif(global.get(\"temp\") <= 30.0){\n    msg.payload = \"Eeestaaas  muuueeertooo\";\n    return msg;\n}",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 490,
+        "y": 480,
+        "wires": [
+            [
+                "610842b52fce4813"
+            ]
+        ]
+    }
+]
