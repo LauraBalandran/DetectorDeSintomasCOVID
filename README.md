@@ -72,7 +72,7 @@ En el programa de la IDE de arduino  realiza una conexión a internet por wifi, 
 ![](https://youtu.be/E8k-flcJAIE) Funcionamiento de la aplicación en el dashboard Node-red.
 
 [Vista video2 Youtube](https://youtu.be/UWlHNyCOzPU)
-![](https://youtu.be/UWlHNyCOzPU)) Funcionamiento de la aplicación dashboard Node-red, vista datos en la BD.
+![](https://youtu.be/UWlHNyCOzPU) Funcionamiento de la aplicación dashboard Node-red, vista datos en la BD.
 
 **Hashtags**
   
