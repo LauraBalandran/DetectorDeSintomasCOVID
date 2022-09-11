@@ -1,4 +1,3 @@
-
 # DetectorDeSintomasCOVID
 Este repositorio contiene la aplicación para detectar lo síntomas de COVID por medio del sensor pulsioxímetro MAX30102 y sensor de temperatura infrarroja MLX90614.
 
@@ -20,13 +19,12 @@ La aplicación se visualiza en un flow de Node-red que recibe por mqtt los valor
  
 
 
-## **Para el circuito **
+## **Para el circuito**
 
  - Módulo ESP32CAM
  - conversor serial-USB, FTDI232RL
  - pulsioxímetro MAX30102
  - sensor de temperatura MLX90614
-
 
 
 
@@ -74,21 +72,21 @@ En el programa de la IDE de arduino  realiza una conexión a internet por wifi, 
 ![](https://youtu.be/E8k-flcJAIE) Funcionamiento de la aplicación en el dashboard Node-red.
 
 **Hashtags**
-> #CodigoIoT
-> 
-> #SamsungInnovationCampus
-> 
-> #InternetDeLasCosas
-> 
-> #IoT
-> 
-> #NodeRed
-> 
-> #ESP32CAM
-> 
-> #DetectorSintomasCovid
-> 
-> #MAX30102
-> 
-> #MLX90614
-> 
+  #CodigoIoT
+  
+  #SamsungInnovationCampus
+  
+  #InternetDeLasCosas
+  
+  #IoT
+  
+  #NodeRed
+  
+  #ESP32CAM
+  
+  #DetectorSintomasCovid
+  
+  #MAX30102
+  
+  #MLX90614
+ 
