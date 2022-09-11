@@ -68,4 +68,7 @@ En el programa de la IDE de arduino  realiza una conexión a internet por wifi, 
 
 ## **Vistas previas y vídeos de los resultados**
 
-[Vista video Tiktok](https://vm.tiktok.com/ZMNEqkYQk/) Funcionamiento de la aplicación Detector de Sintomas Covid
+[Vista video Tiktok](https://vm.tiktok.com/ZMNEqkYQk/) Funcionamiento de la aplicación Detector de Sintomas Covid.
+
+[Vista video Youtube](https://youtu.be/E8k-flcJAIE)
+![](https://youtu.be/E8k-flcJAIE) Funcionamiento de la aplicación en el dashboard Node-red.
