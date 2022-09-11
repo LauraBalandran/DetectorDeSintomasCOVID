@@ -74,20 +74,12 @@ En el programa de la IDE de arduino  realiza una conexión a internet por wifi, 
 **Hashtags**
   
   #CodigoIoT
-  
   #SamsungInnovationCampus
-  
   #InternetDeLasCosas
-  
   #IoT
-  
   #NodeRed
-  
   #ESP32CAM
-  
   #DetectorSintomasCovid
-  
   #MAX30102
-  
   #MLX90614
  
