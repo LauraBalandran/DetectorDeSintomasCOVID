@@ -1,0 +1,16 @@
+[
+    {
+        "id": "1759125187f3ebcb",
+        "type": "e-mail",
+        "z": "4a4bf52d7ed40995",
+        "server": "smtp-mail.outlook.com",
+        "port": "587",
+        "secure": false,
+        "tls": false,
+        "name": "",
+        "dname": "",
+        "x": 750,
+        "y": 600,
+        "wires": []
+    }
+]
