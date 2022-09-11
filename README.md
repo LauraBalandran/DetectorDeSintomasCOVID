@@ -7,11 +7,10 @@ Este repositorio contiene la aplicación para detectar lo síntomas de COVID por
 
 La aplicación se visualiza en un flow de Node-red que recibe por mqtt los valores del circuito que tiene el sensor de temperatura MLX90614 y pulsioxímetro MAX30102, tomando la temperatura, oxigenación y ritmo cardíaco para algún paciente, luego registrarlo en una base de datos de MySQL junto con el proto diagnóstico realizado que será enviado por correo.
 
-**
 
-## Requerimientos
 
-**
+## **Requerimientos**
+
 
  - Ubuntu 20.04
  -  Instalar MySQL en Ubuntu 
@@ -19,9 +18,9 @@ La aplicación se visualiza en un flow de Node-red que recibe por mqtt los valor
  -  IDE de Arduino
  - Mosquito MQTT Broker instalado
  
- **
 
-## Para el circuito
+
+## **Para el circuito **
 
  - Módulo ESP32CAM
  - conversor serial-USB, FTDI232RL
@@ -29,15 +28,10 @@ La aplicación se visualiza en un flow de Node-red que recibe por mqtt los valor
  - sensor de temperatura MLX90614
 
 
-**
 
 
+## **Descripción de la Aplicación**
 
-**
-
-## Descripción de la Aplicación
-
-**
 
 ![Diagrama del CI](https://github.com/LauraBalandran/DetectorDeSintomasCOVID/blob/main/Imagenes/Diagrama%20del%20circuto%20pulsoximetro-temperatura.png)
 
@@ -70,10 +64,8 @@ Al oprimir un botón llamado “Realizar diagnostico”, una función compara lo
 En el programa de la IDE de arduino  realiza una conexión a internet por wifi, para enviar un json por mqtt al tema codigoIoT/detectorSintomas/flow
 [Programa que realiza que recibe los valores de los sensores mencionados](https://github.com/LauraBalandran/DetectorDeSintomasCOVID/tree/main/ESP32CAM/ESP32CAM-JSON-MQTT-MLX90614-MAX30102)
 
-**
 
-## Vistas previas y vídeos de los resultados
 
-**
+## **Vistas previas y vídeos de los resultados**
 
-Vista Youtube 
+[Vista video Tiktok](https://vm.tiktok.com/ZMNEqkYQk/) Funcionamiento de la aplicación Detector de Sintomas Covid
