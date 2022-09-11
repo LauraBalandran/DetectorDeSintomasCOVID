@@ -60,7 +60,7 @@ Al oprimir un botón llamado “Realizar diagnostico”, una función compara lo
 
 
 En el programa de la IDE de arduino  realiza una conexión a internet por wifi, para enviar un json por mqtt al tema codigoIoT/detectorSintomas/flow
-[Programa que realiza que recibe los valores de los sensores mencionados](https://github.com/LauraBalandran/DetectorDeSintomasCOVID/tree/main/ESP32CAM/ESP32CAM-JSON-MQTT-MLX90614-MAX30102)
+[Programa que realiza la lectura de los valores de los sensores mencionados](https://github.com/LauraBalandran/DetectorDeSintomasCOVID/tree/main/ESP32CAM/ESP32CAM-JSON-MQTT-MLX90614-MAX30102)
 
 
 
