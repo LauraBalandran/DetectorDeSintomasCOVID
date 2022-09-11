@@ -72,3 +72,14 @@ En el programa de la IDE de arduino  realiza una conexión a internet por wifi, 
 
 [Vista video Youtube](https://youtu.be/E8k-flcJAIE)
 ![](https://youtu.be/E8k-flcJAIE) Funcionamiento de la aplicación en el dashboard Node-red.
+
+**Hashtags**
+> #CodigoIoT
+> #SamsungInnovationCampus
+> #InternetDeLasCosas
+> #IoT
+> #NodeRed
+> #ESP32CAM
+> #DetectorSintomasCovid
+> #MAX30102
+> #MLX90614
